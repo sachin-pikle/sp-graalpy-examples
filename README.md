@@ -1,2 +1,2 @@
-# graalpy-examples
+# sp-graalpy-examples
 GraalPy Examples
